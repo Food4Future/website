@@ -1,0 +1,36 @@
+enable: true
+topTitle: What does Piada contain?
+title: >
+  ## Our love for natural ingredients
+
+  Piada is powered by Food4Future. It is an innovative flat bread. The key elements
+  are the use of lupin flour as source of protein and the fiber JAXplus to reduce the
+  glucose impact.
+nutri: images/service/nutriscore.png
+service:
+  - content: >
+      #### Lupin 
+
+      The star legume of Piada whose main nutritional properties are related to protein, fiber, micronutrients, and fats such as omega-3 and omega-6. Thanks to these substances, lupines are a nourishing, energetic, and satiating food.
+    image: images/service/lupino.png
+  - content: >
+      #### Oats 
+
+      We've chosen this valuable grain, traditionally part of the diet of Northern European populations, appreciated for its protein content, lack of gluten, and high soluble fiber, especially beta-glucans and its intake of vitamin B1.
+    image: images/service/oats.png
+  - content: >
+      #### Spelt
+
+      It's the grain most similar to wheat but with much less gluten, low in fat, and has a low glycemic index compared to other cereal varieties. Spelt's true wealth lies in its fibers, which increase the feeling of satiety and aid digestion.
+    image: images/service/farro.png
+  - content: >
+      #### Flax, pumpkin, and sunflower seeds
+
+      A mine of polyphenols and B vitamins, rich in antioxidants, the seeds in Piada are a precious source against free radicals.
+    image: images/service/sunflower.png
+  - content: >
+      #### JAXplus Fiber
+
+      This extraordinary and unique soluble fiber is rich in arabinoxylans. By adding JAXplus to Piada, its fiber acts as a protective armor that coats glucose molecules, slowing their absorption by the body and avoiding glycemic spikes. JAXplus is a patent by Heallo Solutions.
+    image: images/service/jax.png
+_template: service_template

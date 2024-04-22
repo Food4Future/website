@@ -1,0 +1,14 @@
+enable: true
+topTitle: About
+title: >
+  ## Our Story
+
+  Taste, Health, Innovation: Redefining Tradition, Crafting the Future
+content: >
+  ### Crafting the Future of Nutrition: The Story of Piada
+
+  In the vast expanse of the food industry, where innovation meets tradition, Food4Future emerges as a beacon of culinary ingenuity. At its heart lies Piada, an innovative piadina crafted by Giordana Legnazzi, a sociologist with a passion for food culture and nutrition. Inspired by her experiences managing an Italian tavern in Sweden, Giordana embarked on a journey to blend Italian heritage with modern nutritional science. Piada, a testament to her vision, revolutionizes traditional piadina by incorporating lupin flour, whole grains, and the groundbreaking soluble fiber, JAXplus®. This fusion not only tantalizes the taste buds but also nourishes the body, offering a low glycemic index protein option for health-conscious consumers.
+button1Name: Contact Us
+button1Target: contact
+image: images/about/label.jpeg
+_template: about_template

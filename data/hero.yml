@@ -1,0 +1,12 @@
+enable: true
+topTitle: We Are Food4Future!
+content: >
+  # Fold, Bite, Enjoy!
+
+  We've created a product in line with Italian tradition, making healthy eating even more enjoyable and flavorful.
+buttonName: Contact Us
+buttonURL: contact
+image: images/hero/side.jpeg
+videoThumb: images/hero/thumbnail.png
+videoURL: videos/piada.mp4
+_template: hero_template

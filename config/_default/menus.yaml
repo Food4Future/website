@@ -1,0 +1,23 @@
+main:
+  - name: Home
+    url: ""
+    weight: 1
+  - name: Ingredients
+    url: "#service"
+    weight: 2
+  - name: About
+    url: "#about"
+    weight: 3
+  - name: Blog
+    url: "#blog"
+    weight: 4
+sitemap:
+  - name: Home
+    url: ""
+    weight: 1
+  - name: Contact Us
+    url: "contact"
+    weight: 2
+  - name: Blog
+    url: "blog"
+    weight: 4
